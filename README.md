@@ -1,3 +1,3 @@
-This is the readme file for the tutorial repository
-This line has been added and now also attempting conflict
+This is the readme file or the tutorial repository
+This line has been added
 Change added in dazzling_feature branch
